@@ -4,12 +4,13 @@
 
 **Portable Windows User `PATH` Manager (`HKCU\Environment\Path`) — No Administrator Rights Required**
 
-[![Release](https://img.shields.io/badge/Release-v0.1.0-98c379?style=for-the-badge)](https://github.com/aozora-kenzu/Windows-Path-Manager/releases/latest)
+[![Release](https://img.shields.io/github/v/release/aozora-kenzu/Windows-Path-Manager?style=for-the-badge&color=98c379&label=Release)](https://github.com/aozora-kenzu/Windows-Path-Manager/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/aozora-kenzu/Windows-Path-Manager/total?style=for-the-badge&color=61afef&label=Downloads)](https://github.com/aozora-kenzu/Windows-Path-Manager/releases)
 [![Format](https://img.shields.io/badge/Format-Portable%20.exe%20%2F%20.zip-61afef?style=for-the-badge)](https://github.com/aozora-kenzu/Windows-Path-Manager/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(x64)-56b6c2?style=for-the-badge&logo=windows)](https://github.com/aozora-kenzu/Windows-Path-Manager/releases/latest)
 [![Privileges](https://img.shields.io/badge/Privileges-Standard%20User%20(No%20UAC)-e5c07b?style=for-the-badge)](https://github.com/aozora-kenzu/Windows-Path-Manager)
 [![Stack](https://img.shields.io/badge/Built%20With-Rust%20%2B%20Tauri%20v2%20%2B%20React-c678dd?style=for-the-badge&logo=tauri)](https://tauri.app/)
-[![License](https://img.shields.io/badge/License-MIT-abb2bf?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/github/license/aozora-kenzu/Windows-Path-Manager?style=for-the-badge&color=abb2bf)](LICENSE)
 
 <br />
 
