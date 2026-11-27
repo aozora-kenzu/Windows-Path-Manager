@@ -1,0 +1,15 @@
+# Dependencies & build outputs
+node_modules/
+dist/
+src-tauri/target/
+src-tauri/gen/schemas/
+
+# Portable runtime data & self-update staging
+data/
+*.old
+*.new
+
+# OS & logs
+.DS_Store
+Thumbs.db
+*.log
