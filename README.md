@@ -4,12 +4,12 @@
 
 **Portable Windows User `PATH` Manager (`HKCU\Environment\Path`) — No Administrator Rights Required**
 
-[![Release](https://img.shields.io/github/v/release/aozora-kenzu/Windows-Path-Manager?style=for-the-badge&color=98c379&label=Release)](https://github.com/aozora-kenzu/Windows-Path-Manager/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/aozora-kenzu/Windows-Path-Manager/total?style=for-the-badge&color=61afef&label=Downloads)](https://github.com/aozora-kenzu/Windows-Path-Manager/releases)
+[![Release](https://img.shields.io/badge/Release-v0.1.0-98c379?style=for-the-badge)](https://github.com/aozora-kenzu/Windows-Path-Manager/releases/latest)
+[![Format](https://img.shields.io/badge/Format-Portable%20.exe%20%2F%20.zip-61afef?style=for-the-badge)](https://github.com/aozora-kenzu/Windows-Path-Manager/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(x64)-56b6c2?style=for-the-badge&logo=windows)](https://github.com/aozora-kenzu/Windows-Path-Manager/releases/latest)
 [![Privileges](https://img.shields.io/badge/Privileges-Standard%20User%20(No%20UAC)-e5c07b?style=for-the-badge)](https://github.com/aozora-kenzu/Windows-Path-Manager)
 [![Stack](https://img.shields.io/badge/Built%20With-Rust%20%2B%20Tauri%20v2%20%2B%20React-c678dd?style=for-the-badge&logo=tauri)](https://tauri.app/)
-[![License](https://img.shields.io/github/license/aozora-kenzu/Windows-Path-Manager?style=for-the-badge&color=abb2bf)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-abb2bf?style=for-the-badge)](LICENSE)
 
 <br />
 
@@ -63,8 +63,8 @@ Styled after **[Zed.dev](https://zed.dev)** (One Dark & One Light themes) using 
 
 ## Download & Usage
 
-1. Download the latest **`WindowsPathManager.exe`** from [GitHub Releases](https://github.com/aozora-kenzu/Windows-Path-Manager/releases/latest).
-2. Place it anywhere (USB drive, `C:\AppPath`, Desktop, etc.) and run it — no installation or Administrator privileges required.
+1. Download **`WindowsPathManager.exe`** (standalone) or **`WindowsPathManager-v0.1.0-win-x64-portable.zip`** from [GitHub Releases](https://github.com/aozora-kenzu/Windows-Path-Manager/releases/latest).
+2. Extract (if using `.zip`) and place `WindowsPathManager.exe` anywhere (USB drive, `C:\AppPath`, Desktop, etc.) and run it — no installation or Administrator privileges required.
 3. Make edits in **User PATH**, inspect changes via **Review & Apply**, and confirm to write `HKCU\Environment\Path` and broadcast `WM_SETTINGCHANGE`.
 
 > **System Requirements:** Windows 10 or Windows 11 (x64) with Microsoft Edge WebView2 Runtime (pre-installed on Windows 11 and modern Windows 10).
